@@ -8,7 +8,7 @@
     "gh-pages": "^2.0.1",
     "lodash": ">=4.17.21",
     "marked": "^0.7.0",
-    "minimist": ">=1.2.2",
+    "minimist": ">=1.2.6",
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.9",
     "react-dom": "^16.8.6",
